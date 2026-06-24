@@ -42,7 +42,7 @@ PORT=3306
 ```
 yum install mariadb105-server
 sudo dnf install -y nodejs
-sudo dnf install -y nodejs
+sudo npm install -g pm2
 ```
 #### SSH into backend server and then run test.sql script from backend to create tables and records 
 ```
