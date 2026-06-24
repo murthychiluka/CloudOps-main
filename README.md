@@ -136,7 +136,7 @@ On the machine where you build the React app (or directly on the nginx server):
 ```bash
 
 npm install
-
+sudo dnf install -y nodejs
 npm run build
 
 # Copy the build files to nginx root on the nginx host
