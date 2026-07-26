@@ -33,10 +33,10 @@
 ```
 2nd10WeeksofCloudOps-main.git/backend/.env
 
-### add this mater
-DB_HOST=book.rds.com	#change rds endpoint
-DB_USERNAME=admin	#cahnge to nyour rds user name 
-DB_PASSWORD="veera"   # change to your rds password
+### add this matter
+DB_HOST=book.rds.com	# change RDS endpoint
+DB_USERNAME=admin	# change to your rds user name 
+DB_PASSWORD="murthy"   # change to your RDS password
 PORT=3306
 ```
 ```
